@@ -1,0 +1,29 @@
+.nav{
+    display: flex;
+    padding:20px;
+    background-color: #7e5bbe;
+    align-items: center;
+    justify-content: center;
+  }
+
+.webshopLink {
+    font-size: 20px;
+}
+
+.cartLink {
+    padding-left: 50px;
+}
+
+.cartItemCount {
+    text-decoration: none;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+}
+
+.links:hover {
+    text-decoration: underline;
+}
+

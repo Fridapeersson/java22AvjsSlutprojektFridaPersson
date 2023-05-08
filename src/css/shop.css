@@ -1,0 +1,29 @@
+.productItems {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #fff;
+    transition: all 0.3s ease-in-out;
+  }
+  
+.sortOrder {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+  padding-right: 60px;
+}
+label{
+    padding-right: 5px;
+  }
+
+.searchBar{
+  padding-left: 100px;
+}
+
+.header{
+  display: flex;
+  justify-content: center;
+}
